@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Git\20W Speaker\20W_Speaker\20W_Speaker.kicad_sch</source>
+    <date>11/7/2023 10:37:57 PM</date>
+    <tool>Eeschema 7.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>20W_Speaker.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Type">X5R</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Type" value="X5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c4d8286-9e4c-40c1-a7b8-7b4fb4a683b9</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Type">X5R</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Type" value="X5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d82278ff-5d33-4c0c-b272-004cfe0a9e23</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Type">X5R</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Type" value="X5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5cd5b07-dc35-4dda-b49b-fb7b6cb81c52</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Type">X5R</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Type" value="X5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0965c377-ac41-48c2-87a0-ade9e7bcf559</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Type">X5R</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Type" value="X5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96a41b64-0f65-4646-ab6c-efcb1e94e1aa</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Type">X5R</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Type" value="X5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00e2b5b0-28e5-498f-807c-07612f975d0c</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>860020474014</value>
+      <footprint>470uF:CAP_WCAP-ATG5_8x11.5_WRE</footprint>
+      <datasheet>860020474014</datasheet>
+      <libsource lib="2023-10-01_19-18-23" part="860020474014" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_keywords" value="860020474014"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb3f222a-99a8-4860-bb84-3b59bd055f3d</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Type">X5R</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Type" value="X5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d530dc3f-8f29-489d-9baa-3a747b905547</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Type">X5R</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Type" value="X5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea4c65c6-6ebc-48dd-aedb-be8628d6e26f</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>220pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Type">X5R</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Type" value="X5R"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>edc5e9f3-459b-4ab1-94a6-8923f8fac3c6</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>220pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Type">X5R</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Voltage" value="16V"/>
+      <property name="Type" value="X5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82b742a3-4620-4633-98c4-1941993220f3</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>MPZ1608S221ATA00</value>
+      <footprint>digikey-footprints:0603</footprint>
+      <datasheet>https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf</datasheet>
+      <fields>
+        <field name="Category">Filters</field>
+        <field name="DK_Datasheet_Link">https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/tdk-corporation/MPZ1608S221ATA00/445-1565-1-ND/571895</field>
+        <field name="Description">FERRITE BEAD 220 OHM 0603 1LN</field>
+        <field name="Digi-Key_PN">445-1565-1-ND</field>
+        <field name="Family">Ferrite Beads and Chips</field>
+        <field name="MPN">MPZ1608S221ATA00</field>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Ferrite-Beads-and-Chips" part="MPZ1608S221ATA00" description="FERRITE BEAD 220 OHM 0603 1LN"/>
+      <property name="Digi-Key_PN" value="445-1565-1-ND"/>
+      <property name="MPN" value="MPZ1608S221ATA00"/>
+      <property name="Category" value="Filters"/>
+      <property name="Family" value="Ferrite Beads and Chips"/>
+      <property name="DK_Datasheet_Link" value="https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/tdk-corporation/MPZ1608S221ATA00/445-1565-1-ND/571895"/>
+      <property name="Description" value="FERRITE BEAD 220 OHM 0603 1LN"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="FERRITE BEAD 220 OHM 0603 1LN"/>
+      <property name="ki_keywords" value="445-1565-1-ND MPZ"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b4b7c9e-156c-4eea-945d-8b53bad4628c</tstamps>
+    </comp>
+    <comp ref="FB2">
+      <value>MPZ1608S221ATA00</value>
+      <footprint>digikey-footprints:0603</footprint>
+      <datasheet>https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf</datasheet>
+      <fields>
+        <field name="Category">Filters</field>
+        <field name="DK_Datasheet_Link">https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/tdk-corporation/MPZ1608S221ATA00/445-1565-1-ND/571895</field>
+        <field name="Description">FERRITE BEAD 220 OHM 0603 1LN</field>
+        <field name="Digi-Key_PN">445-1565-1-ND</field>
+        <field name="Family">Ferrite Beads and Chips</field>
+        <field name="MPN">MPZ1608S221ATA00</field>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Ferrite-Beads-and-Chips" part="MPZ1608S221ATA00" description="FERRITE BEAD 220 OHM 0603 1LN"/>
+      <property name="Digi-Key_PN" value="445-1565-1-ND"/>
+      <property name="MPN" value="MPZ1608S221ATA00"/>
+      <property name="Category" value="Filters"/>
+      <property name="Family" value="Ferrite Beads and Chips"/>
+      <property name="DK_Datasheet_Link" value="https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/tdk-corporation/MPZ1608S221ATA00/445-1565-1-ND/571895"/>
+      <property name="Description" value="FERRITE BEAD 220 OHM 0603 1LN"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="FERRITE BEAD 220 OHM 0603 1LN"/>
+      <property name="ki_keywords" value="445-1565-1-ND MPZ"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94916675-c8f9-4423-ad45-46fb435a236c</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>DNP</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38c4092a-5e94-4374-b5d3-1a50d5636e3c</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>DNP</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2aace756-8a03-4c34-9005-027c7ceec364</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02</value>
+      <footprint>1x2FemaleVertical:PinHeader_1x02_P2.54mm_VerticalFemale</footprint>
+      <fields>
+        <field name="Manufacturer">TAD</field>
+        <field name="Part Number">1-0201FBV0T</field>
+        <field name="Specifications">Pins_01x02, Header, Male Pins, 1*2, spacing 2.54mm, straight pin</field>
+      </fields>
+      <libsource lib="4ms_Connector" part="Conn_01x02" description="HEADER 1x2 MALE PINS 0.100” 180deg"/>
+      <property name="Specifications" value="Pins_01x02, Header, Male Pins, 1*2, spacing 2.54mm, straight pin"/>
+      <property name="Manufacturer" value="TAD"/>
+      <property name="Part Number" value="1-0201FBV0T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="HEADER 1x2 MALE PINS 0.100” 180deg"/>
+      <property name="ki_keywords" value="Conn_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9501e71-1698-47d5-bea6-818d58ce4f61</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>1x2FemaleVertical:PinHeader_1x02_P2.54mm_VerticalFemale</footprint>
+      <fields>
+        <field name="Manufacturer">TAD</field>
+        <field name="Part Number">1-0201FBV0T</field>
+        <field name="Specifications">Pins_01x02, Header, Male Pins, 1*2, spacing 2.54mm, straight pin</field>
+      </fields>
+      <libsource lib="4ms_Connector" part="Conn_01x02" description="HEADER 1x2 MALE PINS 0.100” 180deg"/>
+      <property name="Specifications" value="Pins_01x02, Header, Male Pins, 1*2, spacing 2.54mm, straight pin"/>
+      <property name="Manufacturer" value="TAD"/>
+      <property name="Part Number" value="1-0201FBV0T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="HEADER 1x2 MALE PINS 0.100” 180deg"/>
+      <property name="ki_keywords" value="Conn_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39aa53d6-dde9-4457-a0ed-27b8b7e8ac0a</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x02</value>
+      <footprint>1x2FemaleVertical:PinHeader_1x02_P2.54mm_VerticalFemale</footprint>
+      <fields>
+        <field name="Manufacturer">TAD</field>
+        <field name="Part Number">1-0201FBV0T</field>
+        <field name="Specifications">Pins_01x02, Header, Male Pins, 1*2, spacing 2.54mm, straight pin</field>
+      </fields>
+      <libsource lib="4ms_Connector" part="Conn_01x02" description="HEADER 1x2 MALE PINS 0.100” 180deg"/>
+      <property name="Specifications" value="Pins_01x02, Header, Male Pins, 1*2, spacing 2.54mm, straight pin"/>
+      <property name="Manufacturer" value="TAD"/>
+      <property name="Part Number" value="1-0201FBV0T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="HEADER 1x2 MALE PINS 0.100” 180deg"/>
+      <property name="ki_keywords" value="Conn_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e502d95-8055-478d-a953-0afccdf20adb</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x02</value>
+      <footprint>1x2FemaleVertical:PinHeader_1x02_P2.54mm_VerticalFemale</footprint>
+      <fields>
+        <field name="Manufacturer">TAD</field>
+        <field name="Part Number">1-0201FBV0T</field>
+        <field name="Specifications">Pins_01x02, Header, Male Pins, 1*2, spacing 2.54mm, straight pin</field>
+      </fields>
+      <libsource lib="4ms_Connector" part="Conn_01x02" description="HEADER 1x2 MALE PINS 0.100” 180deg"/>
+      <property name="Specifications" value="Pins_01x02, Header, Male Pins, 1*2, spacing 2.54mm, straight pin"/>
+      <property name="Manufacturer" value="TAD"/>
+      <property name="Part Number" value="1-0201FBV0T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="HEADER 1x2 MALE PINS 0.100” 180deg"/>
+      <property name="ki_keywords" value="Conn_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d3ec2a0-455a-4fce-bb72-4bf89a1d9905</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52296e77-6671-4cfd-95bf-0256cb190c47</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06b54b00-676c-4c9a-b488-574095686627</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7e01f9f-5fdb-4df5-b499-53003591ab8d</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>PAM8320RDR</value>
+      <footprint>PAM8320:SO-16EP_3P9X9P9_DIO</footprint>
+      <datasheet>PAM8320RDR</datasheet>
+      <libsource lib="2023-10-01_02-32-05" part="PAM8320RDR" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_keywords" value="PAM8320RDR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fc8ec43-245c-45bb-9e6e-988a46d4239c</tstamps>
+    </comp>
+    <comp ref="Z1">
+      <value>RSX501LAM20TR</value>
+      <footprint>5ADiode:DIO_RB050LAM_ROM</footprint>
+      <datasheet>RSX501LAM20TR</datasheet>
+      <libsource lib="2023-10-01_23-34-18" part="RSX501LAM20TR" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_keywords" value="RSX501LAM20TR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91b748cc-c88a-46e4-b3e2-6e334dfdefda</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="2023-10-01_02-32-05" part="PAM8320RDR">
+      <docs>PAM8320RDR</docs>
+      <footprints>
+        <fp>SO-16EP_3P9X9P9_DIO</fp>
+        <fp>SO-16EP_3P9X9P9_DIO-M</fp>
+        <fp>SO-16EP_3P9X9P9_DIO-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">PAM8320RDR</field>
+        <field name="Footprint">SO-16EP_3P9X9P9_DIO</field>
+        <field name="Datasheet">PAM8320RDR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PVCCN" type="unspecified"/>
+        <pin num="2" name="SDN" type="unspecified"/>
+        <pin num="3" name="IN" type="unspecified"/>
+        <pin num="4" name="VCM" type="unspecified"/>
+        <pin num="5" name="AGND" type="power_out"/>
+        <pin num="6" name="AGND" type="power_out"/>
+        <pin num="7" name="VCLAMP" type="unspecified"/>
+        <pin num="8" name="PVCCP" type="unspecified"/>
+        <pin num="9" name="PGNDP" type="power_out"/>
+        <pin num="10" name="OUTP" type="output"/>
+        <pin num="11" name="BSP" type="unspecified"/>
+        <pin num="12" name="MUTE" type="unspecified"/>
+        <pin num="13" name="AVCC" type="unspecified"/>
+        <pin num="14" name="BSN" type="unspecified"/>
+        <pin num="15" name="OUTN" type="output"/>
+        <pin num="16" name="PGNDN" type="power_out"/>
+        <pin num="17" name="EPAD" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="2023-10-01_19-18-23" part="860020474014">
+      <docs>860020474014</docs>
+      <footprints>
+        <fp>CAP_WCAP-ATG5_8x11.5_WRE</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">860020474014</field>
+        <field name="Footprint">CAP_WCAP-ATG5_8x11.5_WRE</field>
+        <field name="Datasheet">860020474014</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="unspecified"/>
+        <pin num="2" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="2023-10-01_23-34-18" part="RSX501LAM20TR">
+      <docs>RSX501LAM20TR</docs>
+      <footprints>
+        <fp>DIO_RB050LAM_ROM</fp>
+        <fp>DIO_RB050LAM_ROM-M</fp>
+        <fp>DIO_RB050LAM_ROM-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R56</field>
+        <field name="Value">RSX501LAM20TR</field>
+        <field name="Footprint">DIO_RB050LAM_ROM</field>
+        <field name="Datasheet">RSX501LAM20TR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="4ms_Connector" part="Conn_01x02">
+      <description>HEADER 1x2 MALE PINS 0.100” 180deg</description>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Footprint">4ms_Connector:Pins_1x02_2.54mm_TH</field>
+        <field name="Specifications">Pins_01x02, Header, Male Pins, 1*2, spacing 2.54mm, straight pin</field>
+        <field name="Manufacturer">TAD</field>
+        <field name="Part Number">1-0201FBV0T</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H4</field>
+        <field name="Value">MountingHole</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="dk_Ferrite-Beads-and-Chips" part="MPZ1608S221ATA00">
+      <description>FERRITE BEAD 220 OHM 0603 1LN</description>
+      <docs>https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf</docs>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">MPZ1608S221ATA00</field>
+        <field name="Footprint">digikey-footprints:0603</field>
+        <field name="Datasheet">https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf</field>
+        <field name="Digi-Key_PN">445-1565-1-ND</field>
+        <field name="MPN">MPZ1608S221ATA00</field>
+        <field name="Category">Filters</field>
+        <field name="Family">Ferrite Beads and Chips</field>
+        <field name="DK_Datasheet_Link">https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/tdk-corporation/MPZ1608S221ATA00/445-1565-1-ND/571895</field>
+        <field name="Description">FERRITE BEAD 220 OHM 0603 1LN</field>
+        <field name="Manufacturer">TDK Corporation</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="2023-10-01_02-32-05">
+      <uri>C:/Git/DaisySeedBreakout/SymbolsAndFootprints/PAM8320RDR/2023-10-01_02-32-05.kicad_sym</uri>
+    </library>
+    <library logical="2023-10-01_19-18-23">
+      <uri>C:/Git/DaisySeedBreakout/SymbolsAndFootprints/470uFCap/2023-10-01_19-18-23.kicad_sym</uri>
+    </library>
+    <library logical="2023-10-01_23-34-18">
+      <uri>C:/Git/DaisySeedBreakout/SymbolsAndFootprints/5ADiode/2023-10-01_23-34-18.kicad_sym</uri>
+    </library>
+    <library logical="4ms_Connector">
+      <uri>C:\Users\Liechty\Documents\KiCad\7.0\3rdparty/symbols/com_github_4ms_4ms-kicad-lib/4ms_Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="unspecified"/>
+      <node ref="H1" pin="1" pintype="input"/>
+      <node ref="H2" pin="1" pintype="input"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="MUTE" pintype="unspecified"/>
+      <node ref="U1" pin="16" pinfunction="PGNDN" pintype="power_out"/>
+      <node ref="U1" pin="5" pinfunction="AGND" pintype="power_out"/>
+      <node ref="U1" pin="6" pinfunction="AGND" pintype="power_out"/>
+      <node ref="U1" pin="9" pinfunction="PGNDP" pintype="power_out"/>
+    </net>
+    <net code="2" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(J1-Pin_1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="SDN" pintype="unspecified"/>
+    </net>
+    <net code="4" name="Net-(J2-Pin_1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Z1" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="5" name="Net-(J3-Pin_1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(J4-Pin_1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(J4-Pin_2)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="FB2" pin="2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(U1-AVCC)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="unspecified"/>
+      <node ref="U1" pin="1" pinfunction="PVCCN" pintype="unspecified"/>
+      <node ref="U1" pin="13" pinfunction="AVCC" pintype="unspecified"/>
+      <node ref="U1" pin="8" pinfunction="PVCCP" pintype="unspecified"/>
+      <node ref="Z1" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="9" name="Net-(U1-BSN)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="BSN" pintype="unspecified"/>
+    </net>
+    <net code="10" name="Net-(U1-BSP)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="BSP" pintype="unspecified"/>
+    </net>
+    <net code="11" name="Net-(U1-IN)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="IN" pintype="unspecified"/>
+    </net>
+    <net code="12" name="Net-(U1-OUTN)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="OUTN" pintype="output"/>
+    </net>
+    <net code="13" name="Net-(U1-OUTP)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="FB2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="OUTP" pintype="output"/>
+    </net>
+    <net code="14" name="Net-(U1-VCLAMP)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VCLAMP" pintype="unspecified"/>
+    </net>
+    <net code="15" name="Net-(U1-VCM)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="VCM" pintype="unspecified"/>
+    </net>
+    <net code="16" name="unconnected-(U1-EPAD-Pad17)">
+      <node ref="U1" pin="17" pinfunction="EPAD" pintype="unspecified+no_connect"/>
+    </net>
+  </nets>
+</export>
