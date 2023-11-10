@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Git\20W Speaker\20W_Speaker\20W_Speaker.kicad_sch</source>
-    <date>11/7/2023 10:37:57 PM</date>
+    <source>C:\Git\20W_Speaker_Driver\20W_Speaker.kicad_sch</source>
+    <date>11/9/2023 9:11:15 PM</date>
     <tool>Eeschema 7.0.7</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -367,6 +367,17 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5d3ec2a0-455a-4fce-bb72-4bf89a1d9905</tstamps>
     </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="20W_Speaker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0735050-e2f8-4ea7-b96f-9a6c3e62504b</tstamps>
+    </comp>
     <comp ref="R2">
       <value>0</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
@@ -625,6 +636,7 @@
       <node ref="R4" pin="2" pintype="passive"/>
       <node ref="U1" pin="12" pinfunction="MUTE" pintype="unspecified"/>
       <node ref="U1" pin="16" pinfunction="PGNDN" pintype="power_out"/>
+      <node ref="U1" pin="17" pinfunction="EPAD" pintype="unspecified"/>
       <node ref="U1" pin="5" pinfunction="AGND" pintype="power_out"/>
       <node ref="U1" pin="6" pinfunction="AGND" pintype="power_out"/>
       <node ref="U1" pin="9" pinfunction="PGNDP" pintype="power_out"/>
@@ -635,6 +647,7 @@
     </net>
     <net code="3" name="Net-(J1-Pin_1)">
       <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="SDN" pintype="unspecified"/>
     </net>
     <net code="4" name="Net-(J2-Pin_1)">
@@ -662,6 +675,7 @@
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="C6" pin="1" pintype="passive"/>
       <node ref="C7" pin="1" pintype="unspecified"/>
+      <node ref="R1" pin="1" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="PVCCN" pintype="unspecified"/>
       <node ref="U1" pin="13" pinfunction="AVCC" pintype="unspecified"/>
       <node ref="U1" pin="8" pinfunction="PVCCP" pintype="unspecified"/>
@@ -696,9 +710,6 @@
     <net code="15" name="Net-(U1-VCM)">
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="U1" pin="4" pinfunction="VCM" pintype="unspecified"/>
-    </net>
-    <net code="16" name="unconnected-(U1-EPAD-Pad17)">
-      <node ref="U1" pin="17" pinfunction="EPAD" pintype="unspecified+no_connect"/>
     </net>
   </nets>
 </export>

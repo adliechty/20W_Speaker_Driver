@@ -57,7 +57,6 @@
       ],
       "drc_exclusions": [
         "silk_overlap|149110700|98448114|933763e5-baa7-4bf7-ad99-1c9051f005a2|dd396580-faa5-425d-b2c7-7e9791acec0d",
-        "silk_overlap|151530105|83920676|33cc1dda-cefc-4160-962e-1c8eb7c69476|f9c38a8a-e006-4bcb-87cb-1e313aeeb23a",
         "silk_overlap|161489248|85719909|1d4d8c7b-26f4-4623-857c-9710fc51291c|b32f4f92-7da7-4e1d-afef-2ac26f06902e"
       ],
       "meta": {
